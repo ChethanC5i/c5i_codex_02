@@ -1,0 +1,3 @@
+interface:
+  display_name: "Run Tests On Code Change"
+  short_description: "Run relevant tests after code changes"
